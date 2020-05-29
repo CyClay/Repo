@@ -1,3 +1,4 @@
+  
 Package: com.jbrownllama.newcam
 Version: 0.0.1
 Section: Tweaks
@@ -10,4 +11,4 @@ MD5sum: f4c0407d86b0397bc9b728d4f3bac6b6
 Description: NewCam is a Tweak that bring the iPhone 11 Camera UI to older iPhones
 Name: NewCam
 Author: CyClay
-Depiction: http://cyclay.github.io/repo/depictions
+Depiction: http://cyclay.github.io/repo/depictions/com.jbrownllama.newcam
