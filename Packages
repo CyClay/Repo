@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: CyClay
 Depends: 
 Architecture: iphoneos-arm
-Filename:
+Filename: ./debs/com.jbrownllama.newcam
 Size: 3
 MD5sum: f4c0407d86b0397bc9b728d4f3bac6b6
 Description: NewCam is a Tweak that bring the iPhone 11 Camera UI to older iPhones
